@@ -1,0 +1,15 @@
+{
+  "name": "ultraviolet-app-plugins",
+  "owner": { "name": "Ultraviolet-App maintainers" },
+  "metadata": {
+    "description": "Claude plugins for developing and deploying this Ultraviolet-App instance."
+  },
+  "plugins": [
+    {
+      "name": "ultraviolet-dev",
+      "displayName": "Ultraviolet Dev",
+      "source": "./plugins/ultraviolet-dev",
+      "description": "Run, test, deploy, update, debug and customize this Ultraviolet-App instance."
+    }
+  ]
+}

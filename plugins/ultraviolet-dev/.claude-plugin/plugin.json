@@ -1,0 +1,8 @@
+{
+  "name": "ultraviolet-dev",
+  "version": "0.1.0",
+  "description": "Run, smoke-test, deploy, update, debug and customize an Ultraviolet-App instance (Express + Bare server + Ultraviolet service worker).",
+  "author": { "name": "Ultraviolet-App maintainers" },
+  "license": "GPL-3.0-or-later",
+  "keywords": ["ultraviolet", "bare-server", "express", "docker", "deploy"]
+}
